@@ -1,0 +1,21 @@
+text,label
+Package still not delivered even after estimated date,delivery
+Payment declined but money deducted from my bank,payment
+Received damaged item inside the parcel,product
+Cannot login to my account forgot email used,account
+Order confirmation email never received after checkout,order
+Product description on website differs from actual item,product
+Refund not processed after returning the shoes,payment
+Tracking link not updating since last three days,delivery
+Account locked due to multiple failed login attempts,account
+Placed order twice by mistake need one canceled,order
+Credit card not being accepted during payment,payment
+Replacement request approved but item not picked up,delivery
+Color of t-shirt different from what was shown online,product
+Unable to update phone number in profile settings,account
+Order stuck in processing status for two days,order
+Wallet balance not applied to the shopping cart,payment
+Courier marked package delivered but not received,delivery
+Size chart inaccurate shoes too small to fit,product
+Two-factor authentication code not received by SMS,account
+Incorrect quantity delivered one item missing,order
